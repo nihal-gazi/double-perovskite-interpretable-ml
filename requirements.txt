@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+openpyxl
+requests
+pymatgen
+gplearn
+torch
+matplotlib
+seaborn
+plotly
+tqdm
+joblib
