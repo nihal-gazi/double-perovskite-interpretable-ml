@@ -1,3 +1,4 @@
+\PassOptionsToPackage{hyphens}{url}
 \documentclass[12pt,onecolumn]{elsarticle}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
@@ -22,7 +23,7 @@
 \usepackage{tabularx} % Added for text-wrapping columns
 \usepackage{array}    % For custom column formatting
 \usepackage{longtable}% For multi-page tables
-\usepackage{url}
+\usepackage[hyphens]{url}
 \usepackage{float} % Added for exact float placement with [H]
 
 \journal{Computational Condensed Matter}
@@ -82,6 +83,11 @@ The data was extracted through the Materials Project database \cite{materialspro
 This rigorous data collection procedure generated a 416 element dataset of double perovskite compounds. For each of these compounds, the baseline dataset included the chemical formula, space group symmetries, and the B/B'-site transition metals alongside their respective metallic radii. This dataset was then passed for further analysis as it avoided noisy data for the ML models, which are usually less robust to noise.
 
 Furthermore, external data sources were used, such as the Mendeleev Database (for atomic electronegativities and shannon ionic radii) \cite{goldschmidt, shannon}, Materials Project REST API (for 3D crystal structure ) \cite{materialsproject}, PyMatgen (for calculating unit cell volumes, densities, Goldschmidt Tolerance Factors and Octahedral Mismatches) and a pre-trained CHGNet network to obtain relaxed atomic energies and magnetic spin configurations \cite{chgnet}.
+
+The complete curated dataset utilized for this study is provided as Supplementary Material. Furthermore, to ensure full reproducibility, all machine learning pipelines, feature extraction scripts, and parsed data are openly available in our GitHub repository (\url{https://github.com/nihal-gazi/double-perovskite-interpretable-ml}).
+
+
+
 
 \subsection{Stage 1: Gathering Physical and Quantum Descriptors}
 Before running prediction, we needed additional data, that was not available from the available dataset. A good feature selection improves the model, hence, we proceeded with collecting as many features as possible irrespective of their potential contribution to final property prediction.

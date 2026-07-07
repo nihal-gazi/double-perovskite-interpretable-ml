@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.4)  6 JUL 2026 22:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.4)  8 JUL 2026 02:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -497,24 +497,24 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 (paper.aux)
 \openout1 = `paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
@@ -541,134 +541,105 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 31.
+Package hyperref Info: Link coloring OFF on input line 32.
  (paper.out) (paper.out)
 \@outlinefile=\write5
 \openout5 = `paper.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 51.
 
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 51.
 
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (0.39638pt too wide) in paragraph at lines 49--51
+Overfull \hbox (0.39638pt too wide) in paragraph at lines 50--52
 \T1/cmr/m/n/12 we present an in-ter-pretable hy-brid ma-chine learn-ing pipelin
 e to au-tonomously
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 57.
+(hyperref)                removing `\<def>-command' on input line 58.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cnotenum' on input line 57.
+(hyperref)                removing `\cnotenum' on input line 58.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 57.
+(hyperref)                removing `\<def>-command' on input line 58.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@corref' on input line 57.
+(hyperref)                removing `\@corref' on input line 58.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 57.
+(hyperref)                removing `\<def>-command' on input line 58.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cnotenum' on input line 57.
+(hyperref)                removing `\cnotenum' on input line 58.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 57.
+(hyperref)                removing `\<def>-command' on input line 58.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@corref' on input line 57.
+(hyperref)                removing `\@corref' on input line 58.
 
 [1
 
 
 {C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (0.62267pt too wide) in paragraph at lines 62--63
+Overfull \hbox (0.62267pt too wide) in paragraph at lines 63--64
 []\T1/cmr/m/n/12 Perovskites have the same lat-tice struc-ture, how-ever, chang
 -ing their atoms
  []
 
 [2]
-Overfull \hbox (0.91286pt too wide) in paragraph at lines 68--69
+Overfull \hbox (0.91286pt too wide) in paragraph at lines 69--70
 []\T1/cmr/m/n/12 The tra-di-tional DFT frame-work, while highly ac-cu-rate, is 
 ex-tremely costly
  []
 
 [3]
-Overfull \hbox (5.66136pt too wide) in paragraph at lines 89--90
+Overfull \hbox (18.70454pt too wide) in paragraph at lines 87--88
+\T1/cmr/m/n/12 avail-able in our GitHub repos-i-tory ([]$\T1/cmtt/m/n/12 https 
+: / / github . com / nihal -[] gazi / double -[]
+ []
+
+
+Overfull \hbox (5.66136pt too wide) in paragraph at lines 95--96
 []\T1/cmr/m/n/12 1. Mendeleev Database: The Mendeleev database can be im-ported
  through
  []
 
 [4]
-Overfull \hbox (5.6742pt too wide) in alignment at lines 97--103
- [] [] [] 
- []
-
-
 Overfull \hbox (5.6742pt too wide) in alignment at lines 103--109
  [] [] [] 
  []
 
 
-Overfull \hbox (5.6742pt too wide) in alignment at lines 109--111
+Overfull \hbox (5.6742pt too wide) in alignment at lines 109--115
  [] [] [] 
  []
 
 
-Overfull \hbox (5.6742pt too wide) in alignment at lines 111--113
+Overfull \hbox (5.6742pt too wide) in alignment at lines 115--117
  [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-[]|\T1/cmr/m/n/12 Materials Project
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
-[]|\T1/cmr/m/n/12 Materials Project
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--120
-[]|\T1/cmr/m/n/12 Energy above hull
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--120
-\T1/cmr/m/n/12 (eV/atom); ther-mo-dy-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
-[]|\T1/cmr/m/n/12 Materials Project
- []
-
-
-Underfull \hbox (badness 1014) in paragraph at lines 122--122
-\T1/cmr/m/n/12 en-ergy sep-a-ra-tion be-tween
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--122
-\T1/cmr/m/n/12 va-lence and con-duc-tion
+Overfull \hbox (5.6742pt too wide) in alignment at lines 117--119
+ [] [] [] 
  []
 
 
@@ -677,154 +648,191 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--123
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
-[]|\T1/cmr/m/n/12 Looked up from
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+[]|\T1/cmr/m/n/12 Materials Project
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]|\T1/cmr/m/n/12 Energy above hull
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+\T1/cmr/m/n/12 (eV/atom); ther-mo-dy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+[]|\T1/cmr/m/n/12 Materials Project
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 128--128
+\T1/cmr/m/n/12 en-ergy sep-a-ra-tion be-tween
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+\T1/cmr/m/n/12 va-lence and con-duc-tion
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 128--129
-\T1/cmr/m/n/12 Mendeleev database
- []
-
-
-Underfull \hbox (badness 1102) in paragraph at lines 128--129
-\T1/cmr/m/n/12 (atomic elec-troneg-a-tiv-ity
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
-[]|\T1/cmr/m/n/12 Looked up from
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
-\T1/cmr/m/n/12 Mendeleev database
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
-[]|\T1/cmr/m/n/12 Looked up from
- []
-
-
-Underfull \hbox (badness 6125) in paragraph at lines 134--134
-[]|\T1/cmr/m/n/12 Shannon ionic ra-dius of
- []
-
-
-Underfull \hbox (badness 1728) in paragraph at lines 134--134
-\T1/cmr/m/n/12 the cation on site $\OML/cmm/m/it/12 X \OMS/cmsy/m/n/12 2
- []
-
-
-Underfull \hbox (badness 6944) in paragraph at lines 134--135
-[]|\T1/cmr/m/n/12 Sourced from Shan-non
+[]|\T1/cmr/m/n/12 Materials Project
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 134--135
+[]|\T1/cmr/m/n/12 Looked up from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\T1/cmr/m/n/12 Mendeleev database
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 134--135
+\T1/cmr/m/n/12 (atomic elec-troneg-a-tiv-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+[]|\T1/cmr/m/n/12 Looked up from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+\T1/cmr/m/n/12 Mendeleev database
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+[]|\T1/cmr/m/n/12 Looked up from
+ []
+
+
+Underfull \hbox (badness 6125) in paragraph at lines 140--140
+[]|\T1/cmr/m/n/12 Shannon ionic ra-dius of
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 140--140
+\T1/cmr/m/n/12 the cation on site $\OML/cmm/m/it/12 X \OMS/cmsy/m/n/12 2
+ []
+
+
+Underfull \hbox (badness 6944) in paragraph at lines 140--141
+[]|\T1/cmr/m/n/12 Sourced from Shan-non
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
 \T1/cmr/m/n/12 ionic radii ta-bles in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--136
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
 []|\T1/cmr/m/n/12 Average va-lence elec-tron
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--136
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
 \T1/cmr/m/n/12 count of the tran-si-tion
  []
 
 
-Underfull \hbox (badness 6461) in paragraph at lines 140--140
+Underfull \hbox (badness 6461) in paragraph at lines 146--146
 []|\T1/cmr/m/n/12 Average B--O and B'--O
  []
 
 
-Overfull \hbox (5.6742pt too wide) in alignment at lines 113--149
+Overfull \hbox (5.6742pt too wide) in alignment at lines 119--155
  [] [] [] 
  []
 
-ignored error: Infinite glue shrinkage found in box being split [5] [6]
-<3_2d_bandgap.png, id=132, 578.16pt x 469.755pt>
+ignored error: Infinite glue shrinkage found in box being split [5]
+ignored error: Infinite glue shrinkage found in box being split [6]
+<3_2d_bandgap.png, id=135, 578.16pt x 469.755pt>
 File: 3_2d_bandgap.png Graphic file (type png)
 <use 3_2d_bandgap.png>
-Package pdftex.def Info: 3_2d_bandgap.png  used on input line 160.
+Package pdftex.def Info: 3_2d_bandgap.png  used on input line 166.
 (pdftex.def)             Requested size: 253.49762pt x 205.96172pt.
-<3_2d_energy_above_hull.png, id=134, 578.16pt x 469.755pt>
+ [7]
+<3_2d_energy_above_hull.png, id=142, 578.16pt x 469.755pt>
 File: 3_2d_energy_above_hull.png Graphic file (type png)
 <use 3_2d_energy_above_hull.png>
-Package pdftex.def Info: 3_2d_energy_above_hull.png  used on input line 167.
+Package pdftex.def Info: 3_2d_energy_above_hull.png  used on input line 173.
+(pdftex.def)             Requested size: 253.49762pt x 205.96172pt.
+<3_2d_formation_energy.png, id=143, 578.16pt x 469.755pt>
+File: 3_2d_formation_energy.png Graphic file (type png)
+<use 3_2d_formation_energy.png>
+Package pdftex.def Info: 3_2d_formation_energy.png  used on input line 180.
 (pdftex.def)             Requested size: 253.49762pt x 205.96172pt.
 
-[7
+[8
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.171 
-       <./3_2d_bandgap.png>]
-<3_2d_formation_energy.png, id=142, 578.16pt x 469.755pt>
-File: 3_2d_formation_energy.png Graphic file (type png)
-<use 3_2d_formation_energy.png>
-Package pdftex.def Info: 3_2d_formation_energy.png  used on input line 174.
-(pdftex.def)             Requested size: 253.49762pt x 205.96172pt.
-<3_2d_total_mag.png, id=143, 578.16pt x 469.755pt>
-File: 3_2d_total_mag.png Graphic file (type png)
-<use 3_2d_total_mag.png>
-Package pdftex.def Info: 3_2d_total_mag.png  used on input line 181.
-(pdftex.def)             Requested size: 253.49762pt x 205.96172pt.
- [8
+l.184 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.185 
-      
+l.184 
+       <./3_2d_bandgap.png> <./3_2d_energy_above_hull.png>]
+<3_2d_total_mag.png, id=152, 578.16pt x 469.755pt>
+File: 3_2d_total_mag.png Graphic file (type png)
+<use 3_2d_total_mag.png>
+Package pdftex.def Info: 3_2d_total_mag.png  used on input line 187.
+(pdftex.def)             Requested size: 253.49762pt x 205.96172pt.
+<3_2d_class.png, id=153, 578.16pt x 469.755pt>
+File: 3_2d_class.png Graphic file (type png)
+<use 3_2d_class.png>
+Package pdftex.def Info: 3_2d_class.png  used on input line 194.
+(pdftex.def)             Requested size: 253.49762pt x 205.96172pt.
+ [9
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.185 
-       <./3_2d_energy_above_hull.png> <./3_2d_formation_energy.png>]
-<3_2d_class.png, id=152, 578.16pt x 469.755pt>
-File: 3_2d_class.png Graphic file (type png)
-<use 3_2d_class.png>
-Package pdftex.def Info: 3_2d_class.png  used on input line 188.
-(pdftex.def)             Requested size: 253.49762pt x 205.96172pt.
-<3_2d_mr2.png, id=153, 578.16pt x 469.755pt>
-File: 3_2d_mr2.png Graphic file (type png)
-<use 3_2d_mr2.png>
-Package pdftex.def Info: 3_2d_mr2.png  used on input line 195.
-(pdftex.def)             Requested size: 253.49762pt x 205.96172pt.
- [9
+l.198 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.199 
-      
+l.198 
+       <./3_2d_formation_energy.png> <./3_2d_total_mag.png>]
+<3_2d_mr2.png, id=164, 578.16pt x 469.755pt>
+File: 3_2d_mr2.png Graphic file (type png)
+<use 3_2d_mr2.png>
+Package pdftex.def Info: 3_2d_mr2.png  used on input line 201.
+(pdftex.def)             Requested size: 253.49762pt x 205.96172pt.
+ [10
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.199 
-       <./3_2d_total_mag.png> <./3_2d_class.png>] [10
+l.207 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.210 
-       <./3_2d_mr2.png>]
-Overfull \hbox (23.58849pt too wide) in alignment at lines 217--228
+l.207 
+       <./3_2d_class.png> <./3_2d_mr2.png>]
+Overfull \hbox (23.58849pt too wide) in alignment at lines 223--234
 [] [] [] [] [] [] [] [] [] 
  []
 
-<formation_energy_optimized.png, id=170, 1004.3121pt x 786.7794pt>
+<formation_energy_optimized.png, id=173, 1004.3121pt x 786.7794pt>
 File: formation_energy_optimized.png Graphic file (type png)
 <use formation_energy_optimized.png>
-Package pdftex.def Info: formation_energy_optimized.png  used on input line 233
+Package pdftex.def Info: formation_energy_optimized.png  used on input line 239
 .
 (pdftex.def)             Requested size: 331.50238pt x 259.69803pt.
 [11
@@ -832,79 +840,79 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.240 
-      
+l.243 
+      ]
+Overfull \hbox (74.86716pt too wide) detected at line 256
+[]
+ []
+
+[12
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.240 
-       <./formation_energy_optimized.png>]
-Overfull \hbox (74.86716pt too wide) detected at line 250
-[]
- []
-
-[12]
-Overfull \hbox (57.60913pt too wide) detected at line 274
+l.256 \end{align*}
+                   <./formation_energy_optimized.png>]
+Overfull \hbox (57.60913pt too wide) detected at line 280
 [][][][]
  []
 
-
-Underfull \hbox (badness 3780) in paragraph at lines 317--317
+[13]
+Underfull \hbox (badness 3780) in paragraph at lines 323--323
 []|\T1/cmr/bx/n/10.95 Best Dis-cov-ered
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--317
+Underfull \hbox (badness 10000) in paragraph at lines 323--323
 []|$\OT1/cmr/m/n/10.95 ^^A\OML/cmm/m/it/10.95 E[] \OMS/cmsy/m/n/10.95 ^^Y
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--317
+Underfull \hbox (badness 10000) in paragraph at lines 323--323
 \OT1/cmr/m/n/10.95 0\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 1508 \OML/cmm/m/it/
 10.95 Val[] \OMS/cmsy/m/n/10.95 ^^@
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--317
+Underfull \hbox (badness 10000) in paragraph at lines 323--323
 \OT1/cmr/m/n/10.95 0\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 4113 \OML/cmm/m/it/
 10.95 EN[] \OMS/cmsy/m/n/10.95 ^^@
  []
 
 
-Underfull \hbox (badness 5787) in paragraph at lines 317--317
+Underfull \hbox (badness 5787) in paragraph at lines 323--323
 []|$\OML/cmm/m/it/10.95 M \OMS/cmsy/m/n/10.95 ^^Y [][] \OT1/cmr/m/n/10.95 +
  []
 
 
-Underfull \hbox (badness 3148) in paragraph at lines 317--317
+Underfull \hbox (badness 3148) in paragraph at lines 323--323
 [][] \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 E[] \OT1/cmr/m/n/10.95 +
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 317--317
+Underfull \hbox (badness 1484) in paragraph at lines 323--323
 \OT1/cmr/m/n/10.95 2 \OML/cmm/m/it/10.95 EN[] \OT1/cmr/m/n/10.95 + \OML/cmm/m/i
 t/10.95 M[] \OMS/cmsy/m/n/10.95 ^^@
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 317--317
+Underfull \hbox (badness 1694) in paragraph at lines 323--323
 []|$\OML/cmm/m/it/10.95 E[] \OMS/cmsy/m/n/10.95 ^^Y ^^@\OT1/cmr/m/n/10.95 0\OML
 /cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 142 \OMS/cmsy/m/n/10.95 ^^A
  []
 
-[13
+[14
 pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.319 
-      ] [14
+l.326 \clearpage
+                
 pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.320 \clearpage
+l.326 \clearpage
                 ] [15
 
 ] [16] [17] (paper.aux)
@@ -916,11 +924,11 @@ Package rerunfilecheck Info: File `paper.out' has not changed.
 (rerunfilecheck)             Checksum: 550BF944274AC16EC8B7870381E49342;1663.
  ) 
 Here is how much of TeX's memory you used:
- 12817 strings out of 467871
- 195033 string characters out of 5418861
- 624657 words of memory out of 5000000
- 41431 multiletter control sequences out of 15000+600000
- 652312 words of font info for 108 fonts, out of 8000000 for 9000
+ 12819 strings out of 467871
+ 195055 string characters out of 5418861
+ 625676 words of memory out of 5000000
+ 41432 multiletter control sequences out of 15000+600000
+ 652625 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,16n,79p,1592b,613s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1
@@ -929,33 +937,34 @@ ecbx1095.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
 i600\ecrm0700.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
 ec/dpi600\ecbx1000.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
 ppen/ec/dpi600\ecrm0600.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/l
-jfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts
-/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\user\AppData\Local\MiKTeX\
-fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\user\AppData\Local\Mi
-KTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\user\AppData\Loc
-al\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\user\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\user\A
-ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Users/us
-er/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/
-Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.
-pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmmi12.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmmi6.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmmi7.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/user/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/user/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/user/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/user/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/us
-er/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/U
-sers/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pf
-b><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-msy8.pfb>
-Output written on paper.pdf (17 pages, 3781418 bytes).
+/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/l
+jfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\user\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\user\AppData\Local\MiKTeX\
+fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\user\AppData\Local\Mi
+KTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\user\AppData\Loc
+al\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\user\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\user\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\u
+ser\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Use
+rs/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb
+><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmmi12.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmmi6.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmmi7.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/user/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/user/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/user/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/user/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/user/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Use
+rs/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+<C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cms
+y7.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmsy8.pfb>
+Output written on paper.pdf (17 pages, 3790022 bytes).
 PDF statistics:
- 815 PDF objects out of 1000 (max. 8388607)
+ 845 PDF objects out of 1000 (max. 8388607)
  56 named destinations out of 1000 (max. 500000)
  116 words of extra memory for PDF output out of 10000 (max. 10000000)
 

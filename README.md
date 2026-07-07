@@ -17,7 +17,8 @@
 <p align="center">
   <a href="paper_v2/paper.pdf"><b>[Read Paper PDF]</b></a> | 
   <a href="run_pipeline.py"><b>[Run Code]</b></a> |
-  <a href="data/processed"><b>[Dataset Cache]</b></a>
+  <a href="data/processed"><b>[Dataset Cache]</b></a> |
+  <a href="double_perovskite_dataset.pdf"><b>[Download Dataset PDF]</b></a>
 </p>
 
 ---
@@ -62,6 +63,7 @@ Prof SOP sir/
 ├── requirements.txt                      # Dependencies required to execute
 ├── run_pipeline.py                       # Single command pipeline to reproduce all figures and metrics
 ├── convert_to_pdf.py                     # Headless Chrome PDF report printing utility
+├── double_perovskite_dataset.pdf         # Printable PDF version of the curated dataset
 └── README.md                             # This file (overview, layout, and instructions)
 ```
 
