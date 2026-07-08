@@ -34,7 +34,7 @@ Our pipeline succeeds in distilling deep representation metrics down to simple, 
 ## 📂 Project Directory Structure
 
 ```text
-Prof SOP sir/
+double-perovskite-interpretable-ml/
 ├── data/                                 # Organized dataset folder
 │   ├── raw/                              # Original input spreadsheets (Excel format)
 │   ├── processed/                        # Query-cached CSV tables (CHGNet, 3D structure, Mendeleev)
